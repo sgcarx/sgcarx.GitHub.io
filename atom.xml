@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>星期二时光</title>
   
-  
+  <subtitle>happy Tuesday!!!</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>司国辰</name>
+    <name>Tuesday_sgcarx</name>
     
   </author>
   
